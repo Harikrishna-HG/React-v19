@@ -10,7 +10,7 @@ export const Practices = () => {
       {/* 2nd */}
       {/* <p>{!students.length && "No students found"}</p> */}
       {/* 3rd  */}
-      <p>{!Boolean(students.length) && "No students found"}</p>
+      <p>{!students.length && "No students found"}</p>
       <p>Number of students: {students.length}</p>
     </>
   );
