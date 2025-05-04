@@ -3,7 +3,6 @@ import "./Todo.css";
 export const Help = () => {
   //* Use Case 1: Copying Arrays
   // const numbers = [1, 2, 3];
-  // // const copiedNumbers = numbers;
   // const copiedNumbers = [...numbers];
   // copiedNumbers[1] = 5;
 

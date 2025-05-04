@@ -1,4 +1,4 @@
-import { use, useContext } from "react";
+import { use } from "react";
 import { BioContext } from ".";
 
 export const About = () => {
