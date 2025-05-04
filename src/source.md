@@ -28,7 +28,7 @@ When importing named exports, the import names must match the export names exact
 Named imports must be enclosed in curly braces.
 
 ## Inline Styles
-
+ 
 Inline styles are applied directly to the HTML elements via the style attribute. This approach uses JavaScript objects to define the CSS properties and values.
 
 # 1. JavaScript Object Syntax

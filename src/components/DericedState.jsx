@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 export const DerivedState = () => {
+  // eslint-disable-next-line no-unused-vars
   const [users, setUsers] = useState([
     { name: "Alice", age: 25 },
     { name: "Bob", age: 30 },
